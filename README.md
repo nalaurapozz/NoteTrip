@@ -1,6 +1,7 @@
 # NoteTrip ✈️
 NoteTrip é um aplicativo mobile que ajuda os viajantes a registrar suas experiências, acessar viagens passadas, converter moedas e armazenar documentos importantes. Com funcionalidades práticas e uma interface amigável, o NoteTrip é o companheiro ideal para quem deseja organizar e reviver suas aventuras de viagem.
 
+Link dos protótipos: https://pr.to/DJKQ3V/
 
 📲 Funcionalidades
 - Registro de Viagens: Adicione notas, fotos e vídeos sobre o que você fez em cada viagem.
