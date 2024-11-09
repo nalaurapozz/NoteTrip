@@ -10,7 +10,7 @@ Link dos protótipos: https://pr.to/DJKQ3V/
 - Armazenamento de Documentos: Salve passagens, reservas e outros documentos importantes diretamente no aplicativo.
 
 🛠️ Tecnologias
-- Frontend: React Native para desenvolvimento mobile em Android e iOS.
+- Frontend: React Native para desenvolvimento mobile em Android.
 - Backend: Node.js com Express para gerenciar dados e usuários.
 - Autenticação: Firebase Authentication para login seguro e rápido.
 - Banco de Dados: Firebase para dados em nuvem e sincronização offline.
