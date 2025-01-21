@@ -9,18 +9,15 @@ const Button = ({ text, onPress }) => (
     <Label text={text} style={{ left: 0, fontWeight: "bold" }} />
   </TouchableOpacity>
 );
-
+//teste  teste
 export default Button;
 
 const styles = StyleSheet.create({
 
-  button: {
-    backgroundColor: "pink",
+  button: { backgroundColor: "pink",
     borderColor: "red",
     borderWidth: 2,
-    borderRadius: 12,
-    width: 120,
-    height: 50,
+    borderRadius: 12, width: 120, height: 50,
     margin: 15,
     justifyContent: "center",
     alignItems: "center",
